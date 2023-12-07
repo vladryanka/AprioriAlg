@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprioriAlg", "AprioriAlg\AprioriAlg.csproj", "{AE0E5588-8C8A-491E-BEE9-AB60F7E022A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0E5588-8C8A-491E-BEE9-AB60F7E022A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0E5588-8C8A-491E-BEE9-AB60F7E022A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0E5588-8C8A-491E-BEE9-AB60F7E022A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0E5588-8C8A-491E-BEE9-AB60F7E022A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D6AECD-A3B5-4DDB-8CA5-B70944B723E3}
+	EndGlobalSection
+EndGlobal

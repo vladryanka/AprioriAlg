@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\bin\Debug\AprioriAlg.exe.config
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\bin\Debug\AprioriAlg.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\bin\Debug\AprioriAlg.pdb
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\obj\Debug\AprioriAlg.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\obj\Debug\AprioriAlg.Form1.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\obj\Debug\AprioriAlg.Properties.Resources.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\obj\Debug\AprioriAlg.csproj.GenerateResource.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\obj\Debug\AprioriAlg.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\obj\Debug\AprioriAlg.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\AprioriAlg\AprioriAlg\obj\Debug\AprioriAlg.pdb
